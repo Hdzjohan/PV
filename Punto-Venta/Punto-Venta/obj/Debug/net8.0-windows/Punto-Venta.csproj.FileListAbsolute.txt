@@ -1,0 +1,17 @@
+D:\codigo\PV\Punto-Venta\Punto-Venta\bin\Debug\net8.0-windows\Punto-Venta.exe
+D:\codigo\PV\Punto-Venta\Punto-Venta\bin\Debug\net8.0-windows\Punto-Venta.deps.json
+D:\codigo\PV\Punto-Venta\Punto-Venta\bin\Debug\net8.0-windows\Punto-Venta.runtimeconfig.json
+D:\codigo\PV\Punto-Venta\Punto-Venta\bin\Debug\net8.0-windows\Punto-Venta.dll
+D:\codigo\PV\Punto-Venta\Punto-Venta\bin\Debug\net8.0-windows\Punto-Venta.pdb
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto_Venta.Main.resources
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.csproj.GenerateResource.cache
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.AssemblyInfoInputs.cache
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.AssemblyInfo.cs
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.csproj.CoreCompileInputs.cache
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.sourcelink.json
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.dll
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\refint\Punto-Venta.dll
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.pdb
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\Punto-Venta.genruntimeconfig.cache
+D:\codigo\PV\Punto-Venta\Punto-Venta\obj\Debug\net8.0-windows\ref\Punto-Venta.dll
