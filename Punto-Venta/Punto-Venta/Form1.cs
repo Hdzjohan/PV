@@ -1,8 +1,8 @@
 namespace Punto_Venta
 {
-    public partial class Main : Form
+    public partial class SpashScreen : Form
     {
-        public Main()
+        public SpashScreen()
         {
             InitializeComponent();
         }

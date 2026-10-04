@@ -1,6 +1,6 @@
 ﻿namespace Punto_Venta
 {
-    partial class Main
+    partial class SpashScreen
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,12 +30,12 @@
         {
             SuspendLayout();
             // 
-            // Main
+            // SpashScreen
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Name = "Main";
+            Name = "SpashScreen";
             Text = "Form1";
             ResumeLayout(false);
         }
